@@ -1,0 +1,6 @@
+Warning[2106] F:\Comint Project\Microchip Solutions-TP\Microchip\USB\HID Device Driver\usb_function_hid.c 155 : comparison of a signed integer to an unsigned integer detected
+Warning[2106] F:\Comint Project\Microchip Solutions-TP\Microchip\USB\HID Device Driver\usb_function_hid.c 156 : comparison of a signed integer to an unsigned integer detected
+Warning[2106] F:\Comint Project\Microchip Solutions-TP\Microchip\USB\HID Device Driver\usb_function_hid.c 163 : comparison of a signed integer to an unsigned integer detected
+Warning[2106] F:\Comint Project\Microchip Solutions-TP\Microchip\USB\HID Device Driver\usb_function_hid.c 168 : comparison of a signed integer to an unsigned integer detected
+Warning[2106] F:\Comint Project\Microchip Solutions-TP\Microchip\USB\HID Device Driver\usb_function_hid.c 174 : comparison of a signed integer to an unsigned integer detected
+Warning[2106] F:\Comint Project\Microchip Solutions-TP\Microchip\USB\HID Device Driver\usb_function_hid.c 186 : comparison of a signed integer to an unsigned integer detected

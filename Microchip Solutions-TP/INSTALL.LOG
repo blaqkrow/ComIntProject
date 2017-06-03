@@ -1,0 +1,531 @@
+***  Installation Started 10/10/2012 14:54  ***
+Title: Microchip USB firmware framework v2.1
+Source: E:\Luke\USB\Microchip\Devboard\PIC18F87J50 Full Speed USB PIC18F87J50 FS USB Demo Board\Microchip MCHPFSUSB v2.1 Installer\Microchip MCHPFSUSB v2.1 Installer.EXE | 04-13-2008 | 10:29:36 | 9855114
+Made Dir: C:\Microchip Solutions
+Made Dir: C:\Microchip Solutions\USB Tools
+Made Dir: C:\Microchip Solutions\USB Tools\USBConfig Tool
+File Copy: C:\Microchip Solutions\USB Tools\USBConfig Tool\USBConfig.exe | 03-28-2008 | 13:43:32 | 1.0.0.0 | 1030656 | 4d09d6e1
+Made Dir: C:\Microchip Solutions\USB Tools\Pdfsusb
+File Copy: C:\Microchip Solutions\USB Tools\Pdfsusb\PICBOOT.dll | 11-10-2003 | 12:07:08 | | 135168 | 1870e63b
+Made Dir: C:\Microchip Solutions\Microchip
+Made Dir: C:\Microchip Solutions\Microchip\Common
+File Copy: C:\Microchip Solutions\Microchip\Common\LCDBlocking.c | 03-30-2008 | 16:24:08 | | 10595 | 5cb079ec
+File Copy: C:\Microchip Solutions\Microchip\Common\uart2.c | 03-10-2008 | 15:19:54 | | 7817 | d1458556
+Made Dir: C:\Microchip Solutions\Microchip\Help
+File Copy: C:\Microchip Solutions\Microchip\Help\USB Embedded Host Library Help.chm | 03-31-2008 | 08:12:50 | | 574255 | 1e5afe65
+Made Dir: C:\Microchip Solutions\Microchip\Include
+File Copy: C:\Microchip Solutions\Microchip\Include\Compiler.h | 03-28-2008 | 13:36:32 | | 5161 | 9b7dcf89
+File Copy: C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h | 03-13-2008 | 14:12:20 | | 8378 | 34ac83b
+File Copy: C:\Microchip Solutions\Microchip\Include\LCDBlocking.h | 03-30-2008 | 16:25:46 | | 2353 | 2ec34511
+Made Dir: C:\Microchip Solutions\Microchip\Include\MDD File System
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\CF- Bit transaction.h | 03-10-2008 | 15:19:00 | | 9333 | 6d255c83
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\CF-PMP.h | 03-10-2008 | 15:19:00 | | 6614 | ad751a94
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\FSDefs.h | 03-10-2008 | 15:19:00 | | 11334 | 863fdee3
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\FSIO.h | 03-10-2008 | 15:19:00 | | 8291 | 1f97aeb
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\Internal Flash.h | 03-10-2008 | 15:19:00 | | 4084 | fe7a961d
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\SD-SPI.h | 04-11-2008 | 11:49:10 | | 14091 | 5ba03df1
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\TEMPLATEFILE.h | 03-10-2008 | 15:19:00 | | 4094 | a7387ac5
+Made Dir: C:\Microchip Solutions\Microchip\Include\PIC18 salloc
+File Copy: C:\Microchip Solutions\Microchip\Include\PIC18 salloc\salloc.h | 03-10-2008 | 15:18:54 | | 125 | e2331385
+File Copy: C:\Microchip Solutions\Microchip\Include\struct_queue.h | 03-10-2008 | 15:19:02 | | 17585 | c1fe5224
+File Copy: C:\Microchip Solutions\Microchip\Include\timer.h | 03-30-2008 | 16:25:50 | | 2388 | 2b9f8701
+File Copy: C:\Microchip Solutions\Microchip\Include\uart2.h | 03-10-2008 | 15:19:02 | | 2381 | 567b0829
+Made Dir: C:\Microchip Solutions\Microchip\Include\Usb
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb.h | 04-07-2008 | 14:14:50 | | 4089 | 49947f51
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_ch9.h | 04-07-2008 | 14:14:50 | | 20818 | 1f5208d1
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_client_hid.h | 03-14-2008 | 10:25:58 | | 15882 | e7f72998
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_client_hid_appl_interface.h | 03-14-2008 | 10:25:58 | | 8645 | e1665fb4
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_client_hid_parser.h | 03-14-2008 | 10:25:58 | | 9758 | 106cb0d9
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_common.h | 04-07-2008 | 14:14:50 | | 22709 | 8f8a9109
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_device.h | 04-07-2008 | 14:14:50 | | 40149 | 5ad83ab6
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_function_generic.h | 03-26-2008 | 16:49:46 | | 4165 | 75dfbeec
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_function_hid.h | 04-07-2008 | 14:14:50 | | 7597 | eb120210
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_function_msd.h | 03-26-2008 | 19:55:04 | | 14502 | 124e34d1
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_hal.h | 03-14-2008 | 11:17:56 | | 20370 | da3257d5
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic18.h | 04-07-2008 | 14:14:50 | | 7360 | 8ac50abc
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_hal_pic24.h | 03-31-2008 | 15:18:04 | | 5578 | 97239eb6
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_host.h | 03-28-2008 | 13:36:06 | | 41493 | 81ca2351
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_host_generic.h | 03-14-2008 | 10:25:58 | | 24381 | 7366ccfa
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_host_msd.h | 03-28-2008 | 13:36:06 | | 21293 | ea261ed
+File Copy: C:\Microchip Solutions\Microchip\Include\Usb\usb_host_msd_scsi.h | 03-14-2008 | 10:25:58 | | 17873 | 9f1c6574
+Made Dir: C:\Microchip Solutions\Microchip\MDD File System
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\CF-Bit transaction.c | 03-10-2008 | 15:20:00 | | 13479 | dc66fa9e
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\CF-PMP.c | 03-10-2008 | 15:20:00 | | 12248 | 171c94e
+Made Dir: C:\Microchip Solutions\Microchip\MDD File System\Documentation
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\Documentation\License Agreement.pdf | 03-10-2008 | 15:19:58 | | 50989 | 71bc263a
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\Documentation\Readme.pdf | 03-10-2008 | 15:19:58 | | 37893 | b470560f
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\FS Phys Interface Template.c | 03-10-2008 | 15:20:00 | | 17151 | d7805ff1
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\FSIO.c | 03-10-2008 | 15:20:00 | | 222808 | 4cf49fb8
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\Internal Flash.c | 03-10-2008 | 15:20:00 | | 51089 | 4e74ff01
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\SD-SPI.c | 04-11-2008 | 17:27:04 | | 33613 | 6073d4bb
+Made Dir: C:\Microchip Solutions\Microchip\PIC18 salloc
+File Copy: C:\Microchip Solutions\Microchip\PIC18 salloc\salloc.c | 03-10-2008 | 15:18:40 | | 12101 | 418f2a59
+Made Dir: C:\Microchip Solutions\Microchip\Usb
+Made Dir: C:\Microchip Solutions\Microchip\Usb\Documentation
+Made Dir: C:\Microchip Solutions\Microchip\Usb\Documentation\Board Information
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Board Information\51526b.pdf | 04-10-2008 | 17:56:52 | | 1315734 | b36c6bb6
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Board Information\Online Links to Other Useful Documents.htm | 04-11-2008 | 01:03:24 | | 6601 | 514f1496
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Board Information\SD Card.pdf | 03-28-2008 | 14:19:36 | | 21078 | 8fa8d582
+Made Dir: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Loading a precompiled demo.html | 04-12-2008 | 18:09:40 | | 20096 | 8d721c26
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Running the Device - HID - Mouse.html | 04-12-2008 | 18:13:36 | | 38296 | a462a9de
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Running the Device - HID - Simple Custom Demo.html | 04-12-2008 | 18:19:54 | | 47455 | dfa9e7d7
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Running the Device - Mass Storage - SD Card data logger.html | 04-12-2008 | 18:22:40 | | 51173 | f7211e31
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Running the Device - Mass Storage - SD Card reader.html | 04-12-2008 | 18:24:50 | | 41566 | bba49b18
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Running the Device - MCHPUSB - Generic driver demo.html | 04-12-2008 | 18:27:46 | | 47692 | 124d1e47
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Running the Host - Mass Storage - Thumb Drive Data logger.html | 04-12-2008 | 18:30:20 | | 30058 | fac40cc8
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Running the PC - WM_DEVICECHANGE demo.html | 04-12-2008 | 18:32:34 | | 41845 | 799d8800
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Getting Started\Getting Started - Using the Device - USB Device - Bootloaders.html | 04-11-2008 | 21:01:26 | | 43840 | 7bbce1
+Made Dir: C:\Microchip Solutions\Microchip\Usb\Documentation\images
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\256GB1 PIM.jpg | 03-26-2008 | 20:04:42 | | 62156 | 3261bd86
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\chart wizard.JPG | 03-29-2008 | 17:54:18 | | 37357 | ad343f52
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\com setup.JPG | 03-29-2008 | 20:40:36 | | 19956 | 60514870
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Computer Management.JPG | 03-29-2008 | 15:48:16 | | 59933 | d9508403
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Copy of USB PICTail+.jpg | 03-26-2008 | 20:05:10 | | 54163 | 9a9d4b
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\custom install 2.JPG | 03-29-2008 | 19:27:04 | | 18551 | 7c0c89ae
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\custom install 3.JPG | 03-29-2008 | 19:27:36 | | 28301 | 8a5efdcf
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\custom install.JPG | 03-29-2008 | 19:26:20 | | 37359 | f8b46dd6
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\cvs file - excel chart.JPG | 03-29-2008 | 17:24:08 | | 35932 | f1b2d25a
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\cvs file.JPG | 03-29-2008 | 17:23:34 | | 36652 | 4764de39
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\data chart.JPG | 03-29-2008 | 17:25:12 | | 43374 | ce0d04a7
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Disk Drive.JPG | 03-29-2008 | 15:50:52 | | 46368 | 621f5ab7
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\drive list.JPG | 03-29-2008 | 15:42:52 | | 20641 | 91af812
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\drive with log file.JPG | 03-29-2008 | 17:22:36 | | 14509 | 5d793de
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\drive.JPG | 03-29-2008 | 16:55:32 | | 12989 | 6f7b0495
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Explorer 16 (processor switch).JPG | 03-29-2008 | 16:43:58 | | 67689 | 5e5f4529
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Explorer 16 (programming jumper).JPG | 03-29-2008 | 16:45:36 | | 54852 | 8bbc3600
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Explorer 16 + PIM + USB PICtail+ (sw2).JPG | 03-28-2008 | 10:37:42 | | 88148 | 12b523a8
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Explorer 16 + PIM + USB PICtail+ (sw3).JPG | 03-28-2008 | 10:38:00 | | 88295 | e83c2098
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Explorer 16 + PIM + USB PICtail+.jpg | 03-26-2008 | 20:06:32 | | 87917 | fc92c665
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Explorer 16.jpg | 03-20-2008 | 14:12:26 | | 212049 | 19eee221
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Fat.jpg | 03-29-2008 | 17:32:50 | | 26848 | f78eec37
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\File System.JPG | 03-29-2008 | 15:43:32 | | 26322 | 74da49b3
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\FSUSB switch.jpg | 03-29-2008 | 18:13:04 | | 32520 | db6f7953
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\FSUSB.jpg | 03-26-2008 | 20:03:32 | | 93702 | b2b6b942
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\help.JPG | 03-29-2008 | 20:50:00 | | 51918 | 7e0d5446
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\HIDBootloader_Connected.PNG | 04-11-2008 | 21:14:16 | | 9388 | ee8d8529
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\HIDBootloader_NotDetected.PNG | 04-11-2008 | 21:11:40 | | 9631 | bb6335f
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\HPC Explorer (processor select).JPG | 03-29-2008 | 16:24:00 | | 50442 | a8c67ad1
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\HPC Explorer + 87J50 PIM + SD Card (logging push button).JPG | 03-29-2008 | 17:51:58 | | 36345 | 31e997f1
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\HPC Explorer + 87J50 PIM + SD Card.jpg | 03-20-2008 | 14:04:00 | | 127217 | 5a170cd8
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\HPC Explorer.jpg | 03-20-2008 | 13:59:56 | | 132320 | b2975702
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\import.JPG | 03-29-2008 | 18:36:38 | | 17641 | bbccb4a7
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\include.JPG | 03-30-2008 | 14:17:56 | | 43655 | 7e287413
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\insert disk.JPG | 03-29-2008 | 16:03:32 | | 6919 | a1e6f94c
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Manage.JPG | 03-29-2008 | 15:46:40 | | 6907 | 86172029
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\MPLAB device section.JPG | 03-29-2008 | 18:35:04 | | 58898 | 5aecd6f0
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\MPLAB device.JPG | 03-29-2008 | 18:35:28 | | 14124 | 98009b93
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\pdfsusb demo.JPG | 03-29-2008 | 19:56:16 | | 47512 | 994c8c3f
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\pdfsusb device.JPG | 03-29-2008 | 19:56:30 | | 48923 | 598caaf4
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\pdfsusb running.JPG | 03-29-2008 | 19:56:58 | | 51901 | 20b7edd9
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\pdfsusb start.JPG | 03-29-2008 | 19:55:54 | | 39419 | 5c82bb35
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\PIC18F87J50 PIM (Push Button).JPG | 03-28-2008 | 10:35:24 | | 32118 | 68432823
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Pic18f87j50 pim jp1.jpg | 03-29-2008 | 16:39:28 | | 31874 | 405fde66
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Pic18f87j50 pim jp4.jpg | 03-29-2008 | 16:34:30 | | 31958 | 7fc2d0bf
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\PIC18F87J50 PIM JP5.jpg | 04-10-2008 | 17:53:34 | | 31897 | 145f732b
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\PIC18F87J50 PIM switch.jpg | 03-29-2008 | 18:09:28 | | 32249 | 31cea00
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\PIC18F87J50 PIM.jpg | 03-26-2008 | 20:04:12 | | 31764 | 345761af
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\PICDEM FS USB Demo Board.JPG | 04-07-2008 | 15:54:00 | | 71091 | 9b27be36
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\program.JPG | 03-29-2008 | 18:39:24 | | 14344 | c3133aae
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\Programmer.JPG | 03-29-2008 | 18:38:40 | | 17441 | b4f881eb
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\SD card setting jumpers 2.jpg | 03-29-2008 | 14:27:06 | | 52817 | 831bdad
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\SD card setting jumpers.JPG | 03-28-2008 | 10:34:52 | | 43923 | f6bdac51
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\SD card.jpg | 03-20-2008 | 13:58:30 | | 43990 | c34489da
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\SimpleHIDGenericDemo.PNG | 04-08-2008 | 14:10:18 | | 4410 | e597c9ae
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\USB Mass Storage Device.JPG | 03-29-2008 | 15:49:56 | | 52820 | faa74d98
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\USB PICTail+ (Device Enabled).JPG | 03-28-2008 | 10:33:30 | | 54384 | a1cdec35
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\USB PICTail+ (Host Enabled).JPG | 03-28-2008 | 10:33:54 | | 54346 | 1ea65a44
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\USB PICTail+.jpg | 03-26-2008 | 20:05:10 | | 54163 | 9a9d4b
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\images\WM_DEVICECHANGE_Demo.png | 04-08-2008 | 13:40:32 | | 19117 | bc5cf757
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Migration Notes v1.3 to v2.1.html | 04-12-2008 | 17:58:10 | | 39406 | 596536d4
+File Copy: C:\Microchip Solutions\Microchip\Usb\Documentation\Release Notes v2.1.htm | 04-13-2008 | 10:05:28 | | 85152 | f515e6d8
+Made Dir: C:\Microchip Solutions\Microchip\Usb\Generic Device Driver
+File Copy: C:\Microchip Solutions\Microchip\Usb\Generic Device Driver\usb_function_generic.c | 03-26-2008 | 16:48:22 | | 2422 | 7862f72d
+Made Dir: C:\Microchip Solutions\Microchip\Usb\Generic Host Driver
+File Copy: C:\Microchip Solutions\Microchip\Usb\Generic Host Driver\usb_client_generic.c | 03-10-2008 | 15:20:02 | | 28129 | 2620d65a
+File Copy: C:\Microchip Solutions\Microchip\Usb\Generic Host Driver\usb_host_generic.c | 03-27-2008 | 14:28:14 | | 28130 | 3b8d1573
+Made Dir: C:\Microchip Solutions\Microchip\Usb\HID Device Driver
+File Copy: C:\Microchip Solutions\Microchip\Usb\HID Device Driver\usb_function_hid.c | 04-07-2008 | 14:14:50 | | 6485 | c0b176a9
+Made Dir: C:\Microchip Solutions\Microchip\Usb\MSD Device Driver
+File Copy: C:\Microchip Solutions\Microchip\Usb\MSD Device Driver\usb_function_msd.c | 03-26-2008 | 19:49:20 | | 29274 | 39494e50
+Made Dir: C:\Microchip Solutions\Microchip\Usb\MSD Host Driver
+File Copy: C:\Microchip Solutions\Microchip\Usb\MSD Host Driver\usb_host_msd.c | 03-27-2008 | 14:28:14 | | 83916 | a71cca0
+File Copy: C:\Microchip Solutions\Microchip\Usb\MSD Host Driver\usb_host_msd_scsi.c | 03-27-2008 | 14:28:14 | | 29679 | 8f69e254
+File Copy: C:\Microchip Solutions\Microchip\Usb\USB PIC18.h | 03-14-2008 | 10:53:20 | | 7570 | 7b7d8e53
+File Copy: C:\Microchip Solutions\Microchip\Usb\USB PIC24.h | 03-14-2008 | 10:53:20 | | 6676 | e03c810
+File Copy: C:\Microchip Solutions\Microchip\Usb\usb_device.c | 04-11-2008 | 12:59:36 | | 59826 | dea1a06f
+File Copy: C:\Microchip Solutions\Microchip\Usb\usb_hal_local.h | 03-14-2008 | 10:54:10 | | 15367 | b4f66981
+File Copy: C:\Microchip Solutions\Microchip\Usb\usb_host.c | 03-28-2008 | 13:35:36 | | 206960 | b21bd091
+File Copy: C:\Microchip Solutions\Microchip\Usb\usb_host_local.h | 03-28-2008 | 13:35:36 | | 32667 | c0bfc1fe
+Made Dir: C:\Microchip Solutions\USB Device - Bootloaders
+Made Dir: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader
+Made Dir: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\Boot87J50Family.c | 04-12-2008 | 15:30:14 | | 18485 | 4618eab6
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\Boot87J50Family.h | 04-09-2008 | 22:36:18 | | 1947 | 1710f88b
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f65j50.lkr | 04-09-2008 | 22:31:34 | | 1818 | e6bd3d60
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f66j50.lkr | 04-09-2008 | 22:34:48 | | 1818 | f52dbf80
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f66j55.lkr | 04-09-2008 | 22:34:20 | | 1819 | 6b929662
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f67j50.lkr | 04-09-2008 | 22:34:48 | | 1671 | 210a16b
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f85j50.lkr | 04-09-2008 | 22:34:48 | | 1818 | 6b90b4b4
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f86j50.lkr | 04-09-2008 | 22:34:48 | | 1818 | 78003654
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f86j55.lkr | 04-09-2008 | 22:34:20 | | 1819 | eaa1ad26
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\BootModified.18f87j50.lkr | 04-12-2008 | 15:27:00 | | 1819 | 9cd2ba27
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\CleanUp.bat | 03-10-2008 | 15:15:34 | | 1294 | 677b2c1e
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\HID Bootloader PIC18F87J50 Family.mcp | 04-12-2008 | 15:27:20 | | 1600 | f3b7b46c
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\HID Bootloader PIC18F87J50 Family.mcs | 04-12-2008 | 18:58:10 | | 7624 | 14ae26e9
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\HID Bootloader PIC18F87J50 Family.mcw | 04-12-2008 | 18:58:06 | | 928768 | bf8c1259
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\hid.c | 04-09-2008 | 20:15:12 | | 11741 | 71dfd470
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\hid.h | 04-09-2008 | 20:14:26 | | 5346 | afb3f8e
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\io_cfg.h | 04-09-2008 | 21:47:24 | | 6736 | d580bea0
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\main.c | 04-09-2008 | 23:23:02 | | 16026 | 664b267f
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\typedefs.h | 11-19-2004 | 17:45:00 | | 4187 | f1440479
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usb.h | 04-09-2008 | 20:13:16 | | 2257 | 4c94404d
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usb9.c | 04-09-2008 | 20:15:40 | | 11876 | 8a3164a8
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usb9.h | 04-09-2008 | 20:14:26 | | 3860 | 9c6daa5e
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbcfg.h | 04-09-2008 | 22:38:52 | | 4564 | 73208f78
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbctrltrf.c | 04-09-2008 | 20:14:26 | | 27445 | 3505f707
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbctrltrf.h | 04-09-2008 | 20:15:12 | | 4151 | c42dfa49
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbdefs_ep0_buff.h | 04-09-2008 | 20:14:26 | | 6896 | 941ea8b2
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbdefs_std_dsc.h | 04-09-2008 | 20:14:26 | | 6402 | 5f47379e
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbdrv.c | 04-09-2008 | 22:37:14 | | 29296 | bbf4b7ee
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbdrv.h | 04-09-2008 | 20:14:26 | | 9048 | a7998118
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbdsc.c | 04-09-2008 | 23:14:24 | | 13673 | c2e52778
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbdsc.h | 04-09-2008 | 20:14:26 | | 2674 | c152911a
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbmmap.c | 04-09-2008 | 20:12:32 | | 12235 | 9a07c0ad
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - Firmware for PIC18F87J50 Family Devices\usbmmap.h | 04-09-2008 | 20:14:26 | | 7166 | 9d9e7e2e
+Made Dir: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\app.ico | 08-12-2005 | 16:37:00 | | 1078 | 9eca8a4e
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\app.rc | 02-29-2008 | 20:15:00 | | 1298 | ddc08769
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\AssemblyInfo.cpp | 02-29-2008 | 20:15:00 | | 1342 | 81892dfa
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\Form1.h | 04-12-2008 | 17:35:30 | | 157181 | 9ff4ec5f
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\Form1.resx | 04-11-2008 | 15:30:30 | | 6399 | 2d672e58
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\HIDBootLoader.cpp | 02-29-2008 | 20:15:00 | | 446 | 45c036f8
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\HIDBootLoader.sln | 02-29-2008 | 20:15:00 | | 895 | 335b017f
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\HIDBootLoader.vcproj | 04-10-2008 | 00:34:26 | | 5821 | ff581bea
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\ReadMe.txt | 02-29-2008 | 20:15:00 | | 1360 | bbbbc434
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\resource.h | 02-29-2008 | 20:15:00 | | 91 | d5dcd426
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\stdafx.cpp | 02-29-2008 | 20:15:00 | | 213 | 61191ba5
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\stdafx.h | 02-29-2008 | 20:15:00 | | 242 | 35c10377
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HID Bootloader - PC Software\uuid.lib | 08-03-2004 | 23:59:00 | | 1396438 | cdc6f33d
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HIDBootLoader.exe | 04-12-2008 | 17:35:34 | | 71168 | eb4b6ab1
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\IMPORTANT README.txt | 04-10-2008 | 23:10:24 | | 1016 | 831d88ba
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\USB Device - HID - HID Bootloader - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 15:30:16 | | 11042 | f1446ec1
+Made Dir: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader
+Made Dir: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\18f4550.lkr | 07-27-2004 | 14:36:46 | | 1418 | 2ed586ed
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\boot.c | 04-09-2008 | 19:38:46 | | 12847 | 5836993
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\boot.h | 04-09-2008 | 19:41:06 | | 7188 | 449317b2
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\CleanUp.bat | 04-09-2008 | 19:45:30 | | 1294 | 769d393
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\interrupt.c | 04-14-2004 | 16:50:32 | | 1631 | 5a54d758
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\interrupt.h | 04-14-2004 | 16:57:52 | | 811 | a48932e2
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\io_cfg.h | 04-09-2008 | 19:40:00 | | 4768 | f0aef89a
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\main.c | 04-10-2008 | 22:36:02 | | 6066 | 7ade29ea
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\MCHPUSB.mcp | 04-09-2008 | 19:43:04 | | 1509 | f1c2c228
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\MCHPUSB.mcw | 04-10-2008 | 20:08:20 | | 24064 | ad79d42a
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\typedefs.h | 11-19-2004 | 17:49:08 | | 4187 | f1440479
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usb.h | 04-09-2008 | 19:40:00 | | 2183 | aedc0784
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usb9.c | 04-09-2008 | 19:38:46 | | 12600 | 81390c19
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usb9.h | 04-09-2008 | 19:41:06 | | 3860 | 9c6daa5e
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbcfg.h | 11-15-2004 | 23:29:24 | | 2870 | fc950e4f
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbctrltrf.c | 04-09-2008 | 19:38:46 | | 21621 | 9ee93255
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbctrltrf.h | 04-09-2008 | 19:41:06 | | 3056 | dfd24c25
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbdefs_ep0_buff.h | 04-09-2008 | 19:40:34 | | 6896 | 941ea8b2
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbdefs_std_dsc.h | 04-09-2008 | 19:40:34 | | 6402 | 5f47379e
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbdrv.c | 04-09-2008 | 19:38:46 | | 12280 | c6c7e85c
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbdrv.h | 04-09-2008 | 19:41:06 | | 8696 | 49f6af83
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbdsc.c | 04-09-2008 | 19:38:46 | | 11055 | a254095a
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbdsc.h | 04-09-2008 | 19:40:34 | | 2534 | 2c1cdd50
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbmmap.c | 04-09-2008 | 19:38:46 | | 12111 | b3b0c816
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usbmmap.h | 04-09-2008 | 19:41:06 | | 7058 | 68a919a5
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - Firmware for PIC18F4550 Family Devices\usb_compile_time_validation.h | 04-09-2008 | 19:40:00 | | 2217 | 2740b27a
+Made Dir: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - PC Software
+File Copy: C:\Microchip Solutions\USB Device - Bootloaders\Vendor Class - MCHPUSB Bootloader\Bootloader - PC Software\Readme.txt | 04-11-2008 | 01:26:00 | | 263 | 94898802
+Made Dir: C:\Microchip Solutions\USB Device - HID - Mouse
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\Getting Started - Running the Device - HID - Mouse.html | 04-10-2008 | 15:33:42 | | 355 | a40902b1
+Made Dir: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\CleanUp.bat | 03-10-2008 | 15:15:34 | | 1294 | 677b2c1e
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\HardwareProfile.h | 04-12-2008 | 10:05:08 | | 12907 | 25ce31be
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\mouse.c | 04-12-2008 | 10:04:18 | | 40631 | f705a32e
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\p24FJ256GB110.gld | 03-25-2008 | 08:41:34 | | 68645 | ae98682
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\rm18f4550.lkr | 04-03-2008 | 13:17:20 | | 1578 | d29c9e32
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\rm18f87j50.lkr | 04-10-2008 | 14:00:06 | | 3320 | 6e15ffcc
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\USB Device - HID - Mouse - C18 - PIC18F87J50 PIM.mcp | 04-10-2008 | 14:12:04 | | 1964 | 33194cd9
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\USB Device - HID - Mouse - C18 - PIC18F87J50 PIM.mcw | 04-12-2008 | 14:27:26 | | 24064 | 14bb5ef2
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\USB Device - HID - Mouse - C18 - PICDEM FSUSB.mcp | 04-10-2008 | 16:37:58 | | 1881 | d6d4ba99
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\USB Device - HID - Mouse - C18 - PICDEM FSUSB.mcw | 04-12-2008 | 15:37:58 | | 23552 | a3ab2a7d
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\USB Device - HID - Mouse - C30.mcp | 04-10-2008 | 16:38:08 | | 1952 | e76a2178
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\USB Device - HID - Mouse - C30.mcw | 04-12-2008 | 15:58:14 | | 23040 | cff284d1
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\usb_config.h | 04-12-2008 | 10:02:40 | | 4587 | 8784dfa
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\HID - Mouse - Firmware\usb_descriptors.c | 04-10-2008 | 16:35:48 | | 8194 | 51b9b966
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\USB Device - HID - Mouse - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:25:58 | | 14382 | ea422f39
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\USB Device - HID - Mouse - C18 - PICDEM FSUSB.hex | 04-12-2008 | 14:28:26 | | 11149 | e309be62
+File Copy: C:\Microchip Solutions\USB Device - HID - Mouse\USB Device - HID - Mouse - C30.hex | 04-10-2008 | 18:55:10 | | 18395 | f1712a2
+Made Dir: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo
+Made Dir: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\CleanUp.bat | 03-10-2008 | 15:15:34 | | 1294 | 677b2c1e
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\HardwareProfile.h | 04-12-2008 | 14:13:24 | | 13392 | 13ef995e
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\main.c | 04-12-2008 | 14:14:30 | | 39302 | c9f4b84d
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\p24FJ256GB110.gld | 03-25-2008 | 08:41:34 | | 68645 | ae98682
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\rm18f4550.lkr | 04-03-2008 | 13:17:20 | | 1578 | d29c9e32
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\rm18f87j50.lkr | 04-10-2008 | 14:00:06 | | 3320 | 6e15ffcc
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\USB Device - HID - Simple Custom Demo - C18 - PIC18F87J50 PIM.mcp | 04-10-2008 | 14:13:28 | | 1904 | 94e60906
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\USB Device - HID - Simple Custom Demo - C18 - PIC18F87J50 PIM.mcw | 04-12-2008 | 14:31:42 | | 24064 | 5bf9bb1e
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\USB Device - HID - Simple Custom Demo - C18 - PICDEM FSUSB.mcp | 04-10-2008 | 16:38:36 | | 1903 | 5942999f
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\USB Device - HID - Simple Custom Demo - C18 - PICDEM FSUSB.mcw | 04-12-2008 | 14:32:16 | | 928256 | 45ff7af7
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\USB Device - HID - Simple Custom Demo - C30.mcp | 04-10-2008 | 16:38:44 | | 1991 | 1a62508f
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\USB Device - HID - Simple Custom Demo - C30.mcw | 04-10-2008 | 09:59:24 | | 23040 | 122ee6f8
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\usb_config.h | 04-12-2008 | 14:14:48 | | 4587 | dc1e8514
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - Firmware\usb_descriptors.c | 04-10-2008 | 16:36:16 | | 7958 | 8e2fc432
+Made Dir: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software
+Made Dir: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\app.ico | 08-12-2005 | 16:37:28 | | 1078 | 9eca8a4e
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\app.rc | 04-07-2008 | 19:19:12 | | 1298 | ddc08769
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\AssemblyInfo.cpp | 04-07-2008 | 19:19:12 | | 1406 | 2817fdc
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\Form1.h | 04-08-2008 | 13:02:28 | | 28201 | a97ccea6
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\Form1.resx | 04-08-2008 | 11:29:12 | | 5817 | 914a7ee8
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\GenericHIDSimpleDemo.cpp | 04-07-2008 | 19:19:10 | | 460 | d3a0a71f
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\GenericHIDSimpleDemo.sln | 04-07-2008 | 19:19:22 | | 909 | c80b6484
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\GenericHIDSimpleDemo.suo | 04-10-2008 | 14:41:08 | | 13312 | 712f4c4
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\GenericHIDSimpleDemo.vcproj | 04-07-2008 | 19:19:22 | | 5842 | a91a6c49
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\ReadMe.txt | 04-07-2008 | 19:19:10 | | 1402 | bac8a8ee
+Made Dir: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\Release
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\Release\GenericHIDSimpleDemo.exe | 04-08-2008 | 13:02:32 | | 46592 | 138f161e
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\resource.h | 04-07-2008 | 19:19:12 | | 91 | d5dcd426
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\stdafx.cpp | 04-07-2008 | 19:19:12 | | 220 | 58f3d7cb
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\stdafx.h | 04-07-2008 | 19:19:12 | | 242 | 35c10377
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Generic HID - Simple Demo - PC Software\Microsoft Visual C++ 2005 Express\uuid.lib | 08-03-2004 | 23:59:24 | | 1396438 | cdc6f33d
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\GenericHIDSimpleDemo.exe | 04-08-2008 | 13:02:32 | | 46592 | 138f161e
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\Getting Started - Running the Device - HID - Simple Custom Demo.html | 04-10-2008 | 15:36:50 | | 381 | 50a1a74d
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\IMPORTANT README.txt | 04-09-2008 | 16:38:30 | | 850 | 880ce496
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\USB Device - HID - Simple Custom Demo - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:31:38 | | 11409 | 6871dae2
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\USB Device - HID - Simple Custom Demo - C18 - PICDEM FSUSB.hex | 04-12-2008 | 14:32:10 | | 11186 | 9c17b665
+File Copy: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\USB Device - HID - Simple Custom Demo - C30.hex | 04-10-2008 | 18:57:36 | | 18652 | 802a171c
+Made Dir: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Getting Started - Running the Device - Mass Storage - SD Card data logger.html | 03-31-2008 | 20:16:14 | | 401 | 9c223396
+Made Dir: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\CleanUp.bat | 03-14-2008 | 13:07:10 | | 1294 | 677b2c1e
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\FSconfig.h | 03-14-2008 | 13:07:10 | | 5141 | 9325b567
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\HardwareProfile.h | 04-11-2008 | 20:02:50 | | 13535 | 15679bcf
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\main.c | 04-11-2008 | 19:56:38 | | 38446 | ed455ff
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\p24FJ256GB110.gld | 03-14-2008 | 13:07:10 | | 68075 | 2b3a8614
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\rm18f87j50_SD_Logger.lkr | 04-10-2008 | 16:32:48 | | 3512 | cf9380fc
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\USB Device - Mass Storage - SD Card data logger - C18 - PIC18F87J50 PIM.mcp | 04-10-2008 | 16:38:56 | | 2572 | 41591dc7
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\USB Device - Mass Storage - SD Card data logger - C18 - PIC18F87J50 PIM.mcw | 04-11-2008 | 19:59:54 | | 24064 | ea48e91e
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\USB Device - Mass Storage - SD Card data logger - C30.mcp | 04-10-2008 | 16:39:04 | | 2404 | 80b3300b
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\USB Device - Mass Storage - SD Card data logger - C30.mcw | 04-12-2008 | 16:44:02 | | 23552 | 4cbabcd4
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\usb_config.h | 04-11-2008 | 19:57:28 | | 4456 | 10ed1c4
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\Mass Storage - Data Logger - Firmware\usb_descriptors.c | 04-10-2008 | 22:50:08 | | 5865 | f530e915
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\USB Device - Mass Storage - SD Card data logger - C18 - PIC18F87J50 PIM.hex | 04-11-2008 | 20:03:02 | | 251396 | 87f6e73e
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card data logger\USB Device - Mass Storage - SD Card data logger - C30.hex | 04-12-2008 | 15:58:58 | | 161574 | c5012943
+Made Dir: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Getting Started - Running the Device - Mass Storage - SD Card reader.html | 03-31-2008 | 20:17:34 | | 391 | efa72261
+Made Dir: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\CleanUp.bat | 03-10-2008 | 15:16:26 | | 1294 | 677b2c1e
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\FSconfig.h | 03-11-2008 | 16:43:44 | | 5141 | 9325b567
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\HardwareProfile.h | 04-12-2008 | 10:01:54 | | 13307 | 52271e92
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\main.c | 04-11-2008 | 16:26:18 | | 35073 | 172846f6
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\p24FJ256GB110.gld | 03-10-2008 | 15:16:26 | | 68073 | 59438e04
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\rm18f87j50_SD_Reader.lkr | 04-10-2008 | 16:33:54 | | 3353 | 59d58c0e
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\USB Device - Mass Storage - SD Card reader - C18 - PIC18F87J50 PIM.mcp | 04-10-2008 | 16:41:22 | | 2315 | b2fbe2fd
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\USB Device - Mass Storage - SD Card reader - C18 - PIC18F87J50 PIM.mcw | 04-13-2008 | 09:43:26 | | 927744 | e6e65724
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\USB Device - Mass Storage - SD Card reader - C30.mcp | 04-10-2008 | 16:41:36 | | 2285 | 798a26be
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\USB Device - Mass Storage - SD Card reader - C30.mcw | 04-12-2008 | 14:37:30 | | 984064 | d2f2f49a
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\usb_config.h | 04-12-2008 | 10:01:22 | | 4456 | 10ed1c4
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\Mass Storage - SD Card Reader - Firmware\usb_descriptors.c | 04-11-2008 | 16:44:02 | | 5894 | acba78c3
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\USB Device - Mass Storage - SD Card reader - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:34:44 | | 32197 | b2c119cb
+File Copy: C:\Microchip Solutions\USB Device - Mass Storage - SD Card reader\USB Device - Mass Storage - SD Card reader - C30.hex | 04-12-2008 | 14:36:42 | | 40847 | eda7fd31
+Made Dir: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo
+Made Dir: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\CleanUp.bat | 03-10-2008 | 15:16:38 | | 1294 | 677b2c1e
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\HardwareProfile.h | 04-12-2008 | 14:17:54 | | 13841 | c6ce6067
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\main.c | 04-13-2008 | 09:55:54 | | 32356 | d5d98c27
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\rm18f4550.lkr | 03-30-2008 | 16:09:40 | | 1576 | 20e56f79
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\rm18f87j50.lkr | 04-10-2008 | 14:00:06 | | 3320 | 6e15ffcc
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\temperature.c | 03-25-2008 | 16:46:46 | | 12571 | c15863db
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\temperature.h | 03-25-2008 | 16:15:56 | | 2056 | 4b62364d
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C18 - PIC18F87J50 PIM.mcp | 04-10-2008 | 16:41:50 | | 2076 | d2d20ce
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C18 - PIC18F87J50 PIM.mcw | 04-13-2008 | 09:56:22 | | 23552 | 8d26e24c
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C18 - PICDEM FSUSB.mcp | 04-10-2008 | 16:41:58 | | 2072 | 1039b3ac
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C18 - PICDEM FSUSB.mcw | 04-12-2008 | 14:40:04 | | 23552 | 513f6d7b
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C30.mcp | 04-10-2008 | 16:42:08 | | 2105 | 15f31524
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\USB Device - MCHPUSB - Generic Driver - C30.mcw | 04-12-2008 | 14:42:36 | | 23552 | b0dbd718
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\usb_config.h | 04-12-2008 | 14:19:38 | | 4302 | fc2ebea7
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\usb_descriptors.c | 04-10-2008 | 16:37:28 | | 6302 | 275d6c6f
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\user.c | 04-13-2008 | 09:47:32 | | 16744 | 44ea3daf
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - Firmware\user.h | 03-11-2008 | 15:55:14 | | 3369 | 7bc9636d
+Made Dir: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - PC Software - Pdfsusb
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - PC Software - Pdfsusb\cc3260.dll | 02-01-2002 | 07:00:00 | 6.0.0.0 | 1410560 | cab88efc
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - PC Software - Pdfsusb\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - PC Software - Pdfsusb\PDFSUSB.exe | 11-30-2004 | 16:22:02 | 1.0.0.0 | 1144320 | 7935a018
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - PC Software - Pdfsusb\PICBOOT.dll | 11-10-2003 | 12:07:08 | | 135168 | 1870e63b
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Getting Started - Running the Device - MCHPUSB - Generic driver demo.html | 04-10-2008 | 15:35:26 | | 391 | 2a88098e
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Important Note.txt | 04-09-2008 | 17:09:56 | | 434 | 730254e8
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\USB Device - MCHPUSB - Generic Driver - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:39:06 | | 14869 | 79769521
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\USB Device - MCHPUSB - Generic Driver - C18 - PICDEM FSUSB.hex | 04-12-2008 | 14:39:56 | | 13779 | 4f3d7da6
+File Copy: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\USB Device - MCHPUSB - Generic Driver - C30.hex | 04-12-2008 | 14:42:30 | | 31922 | 60c84265
+Made Dir: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Getting Started - Running the Host - Mass Storage - Thumb Drive Data logger.html | 04-10-2008 | 15:28:52 | | 405 | 44aee02c
+Made Dir: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\CleanUp.bat | 03-10-2008 | 15:16:02 | | 1294 | 677b2c1e
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\FSconfig.h | 03-10-2008 | 15:15:32 | | 5690 | b9186d05
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\HardwareProfile.h | 03-10-2008 | 15:15:32 | | 2501 | 55d8c8c7
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\USB Host - Mass Storage - Thumb Drive Data Logger.mcp | 04-10-2008 | 10:24:30 | | 2512 | 18c5e387
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\USB Host - Mass Storage - Thumb Drive Data Logger.mcw | 04-12-2008 | 15:08:06 | | 23552 | 64d34caa
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\usb_config.c | 03-28-2008 | 13:35:10 | | 4047 | bb785209
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\usb_config.h | 03-28-2008 | 13:35:10 | | 3672 | 2e8ee849
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\Mass Storage - Thumb Drive Data Logger\usb_data_logger.c | 04-13-2008 | 10:01:50 | | 90933 | 2ec5ae34
+File Copy: C:\Microchip Solutions\USB Host - Mass Storage - Thumb Drive Data Logger\USB Host - Mass Storage - Thumb Drive Data Logger.hex | 04-12-2008 | 15:08:02 | | 261666 | 6e827d9e
+Made Dir: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\Getting Started - Running the PC - WM_DEVICECHANGE demo.html | 04-10-2008 | 15:31:36 | | 365 | c47b45a9
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\IMPORTANT README.txt | 04-09-2008 | 01:45:00 | | 844 | c6777728
+Made Dir: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software
+Made Dir: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\app.ico | 08-12-2005 | 16:37:28 | | 1078 | 9eca8a4e
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\app.rc | 03-31-2008 | 14:12:04 | | 1298 | ddc08769
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\AssemblyInfo.cpp | 03-31-2008 | 14:12:04 | | 1406 | 33f7a7cb
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\Form1.h | 04-08-2008 | 13:20:38 | | 23890 | ed5bf834
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\Form1.resx | 04-08-2008 | 13:18:42 | | 5817 | 914a7ee8
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\ReadMe.txt | 03-31-2008 | 14:12:04 | | 1402 | 26e08b03
+Made Dir: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\Release
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\Release\WM_DEVICECHANGE_Demo.exe | 04-08-2008 | 13:20:40 | | 47616 | 76f1fc3d
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\resource.h | 03-31-2008 | 14:12:04 | | 91 | d5dcd426
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\stdafx.cpp | 03-31-2008 | 14:12:04 | | 220 | 66562498
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\stdafx.h | 03-31-2008 | 14:12:04 | | 242 | 35c10377
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\uuid.lib | 08-03-2004 | 23:59:24 | | 1396438 | cdc6f33d
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\WM_DEVICECHANGE_Demo.cpp | 03-31-2008 | 14:12:04 | | 460 | 1a63afa8
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\WM_DEVICECHANGE_Demo.sln | 03-31-2008 | 14:12:08 | | 909 | 2da91c9c
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\WM_DEVICECHANGE_Demo.suo | 04-08-2008 | 13:21:18 | | 11776 | 65f6ca62
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE Demo - PC Software\Microsoft Visual C++ 2005 Express\WM_DEVICECHANGE_Demo.vcproj | 03-31-2008 | 15:01:56 | | 5842 | 6f9bbc23
+File Copy: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE_Demo.exe | 04-08-2008 | 13:20:40 | | 47616 | 76f1fc3d
+Made Dir: C:\Microchip Solutions\USB Precompiled Demos
+Made Dir: C:\Microchip Solutions\USB Precompiled Demos\Factory HEX Files for Microchip USB Demo Boards
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Factory HEX Files for Microchip USB Demo Boards\PIC18F87J50_FS_USB_PIM_MouseDemo_2007_08.hex | 06-29-2007 | 14:12:06 | | 368700 | 56e4d8c0
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Factory HEX Files for Microchip USB Demo Boards\picdemfsusb.hex | 11-30-2004 | 12:12:50 | | 23128 | dfe42b1f
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Factory HEX Files for Microchip USB Demo Boards\Readme.txt | 04-09-2008 | 16:35:46 | | 264 | aa1e4a2
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Factory HEX Files for Microchip USB Demo Boards\USB Host - Mass Storage - Thumb Drive Data Logger.hex | 04-12-2008 | 15:08:02 | | 261666 | 6e827d9e
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Loading a precompiled demo.html | 03-31-2008 | 20:11:22 | | 343 | dcca7df4
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Running the Device - HID - Mouse.html | 04-10-2008 | 15:33:42 | | 355 | a40902b1
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Running the Device - HID - Simple Custom Demo.html | 04-10-2008 | 15:36:50 | | 381 | 50a1a74d
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Running the Device - Mass Storage - SD Card data logger.html | 03-31-2008 | 20:16:14 | | 401 | 9c223396
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Running the Device - Mass Storage - SD Card reader.html | 03-31-2008 | 20:17:34 | | 391 | efa72261
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Running the Device - MCHPUSB - Generic driver demo.html | 04-10-2008 | 15:35:26 | | 391 | 2a88098e
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Running the Host - Mass Storage - Thumb Drive Data logger.html | 04-10-2008 | 15:28:52 | | 405 | 44aee02c
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\Getting Started - Running the PC - WM_DEVICECHANGE demo.html | 04-10-2008 | 15:31:36 | | 365 | c47b45a9
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - HID - HID Bootloader - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 15:30:16 | | 11042 | f1446ec1
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - HID - Mouse - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:25:58 | | 14382 | ea422f39
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - HID - Mouse - C18 - PICDEM FSUSB.hex | 04-12-2008 | 14:28:26 | | 11149 | e309be62
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - HID - Mouse - C30.hex | 04-10-2008 | 18:55:10 | | 18395 | f1712a2
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - HID - Simple Custom Demo - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:31:38 | | 11409 | 6871dae2
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - HID - Simple Custom Demo - C18 - PICDEM FSUSB.hex | 04-12-2008 | 14:32:10 | | 11186 | 9c17b665
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - HID - Simple Custom Demo - C30.hex | 04-10-2008 | 18:57:36 | | 18652 | 802a171c
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - Mass Storage - SD Card data logger - C18 - PIC18F87J50 PIM.hex | 04-11-2008 | 20:03:02 | | 251396 | 87f6e73e
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - Mass Storage - SD Card data logger - C30.hex | 04-12-2008 | 15:58:58 | | 161574 | c5012943
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - Mass Storage - SD Card reader - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:34:44 | | 32197 | b2c119cb
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - Mass Storage - SD Card reader - C30.hex | 04-12-2008 | 14:36:42 | | 40847 | eda7fd31
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - MCHPUSB - Generic Driver - C18 - PIC18F87J50 PIM.hex | 04-12-2008 | 14:39:06 | | 14869 | 79769521
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - MCHPUSB - Generic Driver - C18 - PICDEM FSUSB.hex | 04-12-2008 | 14:39:56 | | 13779 | 4f3d7da6
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - MCHPUSB - Generic Driver - C30.hex | 04-12-2008 | 14:42:30 | | 31922 | 60c84265
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Device - MCHPUSB - MCHPUSB Bootloader - C18 - PICDEM FSUSB.hex | 04-10-2008 | 22:34:38 | | 6005 | 4ec0b85e
+File Copy: C:\Microchip Solutions\USB Precompiled Demos\USB Host - Mass Storage - Thumb Drive Data Logger.hex | 04-12-2008 | 15:08:02 | | 261666 | 6e827d9e
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\MCHPUSB Driver Release Notes.htm | 01-11-2008 | 12:37:44 | | 18689 | cb33eae5
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\Release
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\Release\Ioctls.h | 09-30-2004 | 06:28:02 | | 7835 | 2919db97
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\Release\mchpusb.cat | 01-04-2008 | 01:05:14 | | 11732 | df7f35ea
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\Release\mchpusb.inf | 12-19-2007 | 15:25:44 | | 3641 | cd2b8b24
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\Release\mchpusb.sys | 12-19-2007 | 11:40:34 | 1.0.0.6 | 53760 | 18198dd4
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\Release\mchpusb64.sys | 12-19-2007 | 11:40:34 | 1.0.0.6 | 64512 | 759a9851
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\MCHPUSB Driver\Release\Release.lnk | 04-09-2008 | 17:08:30 | | 862 | 9f3e9def
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\mpusbapi.h | 11-24-2004 | 10:55:20 | | 3431 | 2bfba410
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\mpusbapi.lib | 03-24-2008 | 16:59:28 | | 1748 | 33a560cf
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\!readme.IMPORTANT!.txt | 11-11-2004 | 19:01:50 | | 297 | 983ce7a6
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\Ioctls.h | 09-30-2004 | 06:28:02 | | 7835 | 2919db97
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\Ioctls.~h | 09-30-2004 | 06:28:02 | | 7835 | 2919db97
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.bpf | 09-27-2004 | 16:44:06 | | 107 | a27d938d
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.bpr | 03-24-2008 | 16:59:34 | | 2965 | b3a7e8af
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.h | 11-24-2004 | 10:55:20 | | 3431 | 2bfba410
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.lib | 03-24-2008 | 16:59:28 | | 1748 | 33a560cf
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.obj | 09-27-2004 | 16:56:58 | | 29653 | 3123b714
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.res | 03-24-2008 | 16:53:36 | | 1716 | f9eddcf3
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.tds | 03-24-2008 | 16:59:34 | | 458752 | 26b7a40e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.~bpr | 11-11-2004 | 23:16:08 | | 2965 | 8c334433
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.~cpp | 09-27-2004 | 16:48:10 | | 10238 | 7e86157d
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\mpusbapi.~h | 11-11-2004 | 20:21:44 | | 3483 | 98edc571
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\_mpusbapi.cpp | 03-24-2008 | 16:53:12 | | 32012 | feed6f53
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\_mpusbapi.h | 11-24-2004 | 10:22:28 | | 3637 | 5963ee6a
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\_mpusbapi.obj | 03-24-2008 | 16:59:28 | | 34348 | 3eeeddfe
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\_mpusbapi.~cpp | 03-19-2008 | 13:43:48 | | 32012 | 4befadd9
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\Source\_mpusbapi.~h | 11-11-2004 | 21:39:34 | | 3627 | a7ae4dd8
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Dll\Borland_C\_mpusbapi.h | 11-24-2004 | 10:22:28 | | 3637 | 5963ee6a
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\console.cpp | 11-11-2004 | 21:59:20 | | 5036 | 260da75
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\console.obj | 11-24-2004 | 11:12:42 | | 20550 | 5f5e477d
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\console.~cpp | 11-11-2004 | 21:59:14 | | 5030 | b33d6d8e
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\exe
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\exe\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\exe\_console.exe | 11-24-2004 | 11:12:44 | | 71168 | c84ffbd
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\hex
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\hex\MCHPUSB.hex | 11-19-2004 | 17:31:22 | | 11517 | 1c1cd55f
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\mpusbapi.h | 11-24-2004 | 10:55:20 | | 3431 | 2bfba410
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\mpusbapi.lib | 03-24-2008 | 16:59:28 | | 1748 | 33a560cf
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\_console.bpf | 09-28-2004 | 10:03:52 | | 98 | dc2d5873
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\_console.bpr | 11-11-2004 | 23:19:22 | | 2849 | a2918c5c
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\_console.exe | 11-24-2004 | 11:12:44 | | 71168 | c84ffbd
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\_console.res | 09-28-2004 | 10:03:50 | | 876 | 929ffe26
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\_console.tds | 11-24-2004 | 11:16:10 | | 458752 | 9ec9f2cb
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\_console.~bpr | 11-11-2004 | 21:21:16 | | 2882 | 5e92af0e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 01 - Load-time Linking\_mpusbapi.h | 11-24-2004 | 10:22:28 | | 3637 | 5963ee6a
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\console.cpp | 11-11-2004 | 23:10:52 | | 11323 | c608d6f3
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\console.obj | 11-24-2004 | 11:14:04 | | 27159 | 1c394e3
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\console.~cpp | 11-11-2004 | 23:05:52 | | 11320 | d04fa47c
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\exe
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\exe\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\exe\_console.exe | 11-24-2004 | 11:14:04 | | 71680 | 5a297bb1
+Made Dir: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\hex
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\hex\MCHPUSB.hex | 11-19-2004 | 17:31:22 | | 11517 | 1c1cd55f
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\mpusbapi.h | 11-24-2004 | 10:55:20 | | 3431 | 2bfba410
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\mpusbapi.lib | 03-24-2008 | 16:59:28 | | 1748 | 33a560cf
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\_console.bpf | 09-28-2004 | 10:03:52 | | 98 | dc2d5873
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\_console.bpr | 11-24-2004 | 11:15:10 | | 2709 | cfb6eb42
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\_console.exe | 11-24-2004 | 11:14:04 | | 71680 | 5a297bb1
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\_console.res | 09-28-2004 | 10:03:50 | | 876 | 929ffe26
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\_console.tds | 11-24-2004 | 11:18:34 | | 458752 | cbfcce9
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\_console.~bpr | 11-11-2004 | 23:14:06 | | 2849 | a2918c5c
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\Example Applications\Borland_C\Example 02 - Run-time Linking\_mpusbapi.h | 11-24-2004 | 10:22:28 | | 3637 | 5963ee6a
+File Copy: C:\Microchip Solutions\USB Tools\MCHPUSB Custom Driver\Mpusbapi\readme.txt | 11-22-2004 | 15:59:38 | | 2066 | 36aaa169
+File Copy: C:\Microchip Solutions\USB Tools\Pdfsusb\cc3260.dll | 02-01-2002 | 07:00:00 | 6.0.0.0 | 1410560 | cab88efc
+File Copy: C:\Microchip Solutions\USB Tools\Pdfsusb\mpusbapi.dll | 03-24-2008 | 16:59:28 | 1.0.1.0 | 59392 | bcf59d5e
+File Copy: C:\Microchip Solutions\USB Tools\Pdfsusb\PDFSUSB.exe | 11-30-2004 | 16:22:02 | 1.0.0.0 | 1144320 | 7935a018
+Made Dir: C:\Users\vanlc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microchip\MCHPFSUSB v2.1
+Shell Link: C:\Users\vanlc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microchip\MCHPFSUSB v2.1\Release Notes.lnk
+Link Info: C:\Microchip Solutions\Microchip\Usb\Documentation\Release Notes v2.1.htm |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\vanlc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microchip\MCHPFSUSB v2.1\USB Embedded Host Library Help.lnk
+Link Info: C:\Microchip Solutions\Microchip\Help\USB Embedded Host Library Help.chm |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\vanlc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microchip\MCHPFSUSB v2.1\PICDEM FS USB Demo Tool.lnk
+Link Info: C:\Microchip Solutions\USB Device - MCHPUSB - Generic Driver Demo\Generic Driver Demo - PC Software - Pdfsusb\PDFSUSB.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\vanlc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microchip\MCHPFSUSB v2.1\Simple HID Demo.lnk
+Link Info: C:\Microchip Solutions\USB Device - HID - Simple Custom Demo\GenericHIDSimpleDemo.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\vanlc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microchip\MCHPFSUSB v2.1\WM_DEVICECHANGE Demo.lnk
+Link Info: C:\Microchip Solutions\USB PC - WM_DEVICECHANGE Demo\WM_DEVICECHANGE_Demo.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\vanlc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microchip\MCHPFSUSB v2.1\USB HID Bootloader.lnk
+Link Info: C:\Microchip Solutions\USB Device - Bootloaders\HID - Bootloader\HIDBootLoader.exe |  |  | 0 | 1 | 0 | 
+User Rights: Admin
